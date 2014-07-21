@@ -1,0 +1,16 @@
+{
+  "name": "ember-cli-compass",
+  "version": "0.0.5",
+  "keywords": [
+    "ember-addon"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "broccoli-compass": "0.0.7",
+    "broccoli-merge-trees": "^0.1.4"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git@github.com:eguneys/ember-cli-compass.git"
+  }
+}
